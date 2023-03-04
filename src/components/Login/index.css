@@ -1,0 +1,10 @@
+.button-login{
+    background-color: white;
+    width: 120px;
+    border-radius: 100px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    border: none;
+    color: black;
+    padding: 10px;
+}
